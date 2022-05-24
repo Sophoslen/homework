@@ -13,4 +13,5 @@ Steps to deploy:
 3. Modify the vars.tfvars file and type the requested data
 4. To deploy the infrastructure, go to /aws/terraform and type terraform init to initialize the backend, terraform plan to confirm changes and 
    terraform apply to create the infrastructure.
-``` Note you can type terraform plan and terraform apply with flags --var-file vars.tfvars, eg. "terraform plan --var-file vars.tfvars
+``` 
+Note you can type terraform plan and terraform apply with flags --var-file vars.tfvars, eg. "terraform plan --var-file vars.tfvars
