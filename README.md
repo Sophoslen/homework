@@ -1,4 +1,4 @@
-# homework
+# Homework
 Here you will find the code that creates an s3 bucket, the lambda importer and a redis node
 
 ```
