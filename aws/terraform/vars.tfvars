@@ -1,4 +1,4 @@
-bucket_name    = "homework-import-bucket"
-redis_username = "testUser"
-redis_password = "superSecretPassword"
+bucket_name    = ""
+redis_username = ""
+redis_password = ""
 redis_DB       = 1
